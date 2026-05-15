@@ -1,1 +1,1 @@
-<h1>im banging my head against the wall</h1>
+<h1 align=center>im banging my head against the wall</h1>
